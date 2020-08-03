@@ -116,3 +116,4 @@ E:\Projects_Desktop\ToDoApp\ToDoApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Co
 E:\Projects_Desktop\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.MvcApplicationPartsAssemblyInfo.cache
 E:\Projects_Desktop\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.dll
 E:\Projects_Desktop\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.pdb
+E:\Projects_Desktop\ToDoApp\ToDoApp\bin\Debug\netcoreapp3.1\DB\ToDoAppDb\Tasks.json
